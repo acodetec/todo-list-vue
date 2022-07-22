@@ -55,6 +55,7 @@ li {
 a {
   color: #42b983;
   text-decoration: none;
+  text-align: center;
 }
 
 </style>
